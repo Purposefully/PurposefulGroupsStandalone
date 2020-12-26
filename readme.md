@@ -12,7 +12,7 @@ ___
 * [Screenshots -- Google Scripts App](#Screenshots----Google-Scripts-App)
 * [Functionality](#Functionality)
 * [Design](#Design)
-* [Classroom Use & Impact](#Classroom-Use-&-Impact)
+* [Classroom Use & Impact](#Classroom-Use-\&-Impact)
 * [Running Locally](#Running-Locally)
 * [Google Scripts App](#Google-Scripts-App)
 
@@ -97,7 +97,7 @@ Several times a week, students were placed in groups of 3-4 using the New Partne
 
 Several times a week, students were placed in partners using the Preferred Partners setting to work on learning tasks such as challenging card sorts where they had to analyze information, make conjectures, and draw conclusions.  I used Preferred Partners because student learning would benefit from the safety created by working with classmates they were comfortable with when sharing ideas they might be uncertain about.
 
-![Impact](/Images/impact.png?raw=true)
+![Impact](/Images/Impact.png?raw=true)
 
 [Return to Table of Contents](#Table-of-Contents)
 ___
