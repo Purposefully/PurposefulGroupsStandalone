@@ -131,7 +131,7 @@ https://github.com/Purposefully/PurposefulGroups
     ```
 5. Install the dependencies
     ```
-    pip install -2 requirements.txt
+    pip install -r requirements.txt
     ```
 6. Run PurposefulGroups
     ```
