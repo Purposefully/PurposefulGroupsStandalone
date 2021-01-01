@@ -8,7 +8,6 @@
 
 [![Video Tour](/images/VideoThumbnail.png?raw=true)](https://youtu.be/fKRsr75Jf5I)
 
-(A stand-alone app)
 
 ### Intuitive group randomizing app that incorporates student preferences and teacher objectives
 
@@ -58,7 +57,7 @@ ___
 ___
 
 ## Technologies Used
-* Python 3.9.0 -- I don't remember why I chose this language.  I knew nothing about languages and their benefits or drawbacks.  I was able to find some books about getting started with Python, so I gave it a try.
+* Python 3.9.0 -- Knowing nothing about languages and their benefits or drawbacks, I decided to give Python a try since I was able to find several library books that looked like they would be helpful.
 * Pandas -- I wanted to be able to use data from a spreadsheet.  In my research, this was the library that surfaced.
 * Tkinter -- I needed some GUIs for the teacher to use and final groups to be displayed.  This library enabled me to create a somewhat responsive final classroom seating arrangement.
 * PyInstaller -- I wanted an easy way to install and access my app on a school computer.  This tool allowed me to package everything into one executable file.
